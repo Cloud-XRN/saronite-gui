@@ -2633,7 +2633,7 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="163"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Saronite development. For instance, a 50% autodonation take a transaction fee of 0.005 LOK and add a 0.0025 LOK to support Saronite development.</source>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Saronite development. For instance, a 50% autodonation take a transaction fee of 0.005 XRN and add a 0.0025 XRN to support Saronite development.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
