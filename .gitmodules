@@ -1,0 +1,3 @@
+[submodule "saronite"]
+	path = saronite
+	url = https://github.com/saronite/saronite-protocol
