@@ -1,5 +1,11 @@
 # Saronite GUI
 
+# Translation help wanted.
+
+If you can and wish to aprticipate either in completing the existing translations or adding new ones, please
+fork the repo, make the modifications and/or additions and the submit a pull request.
+Thank you!
+
 Copyright (c) 2018 Saronite Protocol
 
 Portions Copyright (c) 2014-2018, The Monero Project
